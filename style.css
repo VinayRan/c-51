@@ -1,0 +1,32 @@
+h1{
+    color: #6600FF;
+}
+{
+   
+}
+p{
+    color: #00FFFF ;
+}
+.header{
+    background-color: #CCFFFF;
+    display:flex;
+    justify-content: space-between;
+}
+
+.Site-Description{
+    background-color: darkgray;
+}
+
+.Grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.Item{
+   background-color:  #6666FF;
+}
+
+body{
+    background-color: #6600FF;
+}
